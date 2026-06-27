@@ -38,9 +38,10 @@ The frontend makes a `GET` request to the following local endpoint to retrieve t
 
 * **URL:** `http://localhost:3000/random`
 * **Response Format (JSON):**
+```json
 {
   "price": 1396068
 }
-
+```
 
 The data is fetched immediately upon loading the page and subsequently refreshed every 1 second.

@@ -15,6 +15,7 @@ A full-stack web application that dynamically fetches and displays a continuousl
 
 ## 📂 Project Structure
 
+```
 random-number/
 ├── assets/
 │   └── Vazir.ttf
@@ -24,6 +25,7 @@ random-number/
 ├── package.json
 ├── script.js
 └── style.css
+```
 
 ## 🛠️ Technologies Used
 
